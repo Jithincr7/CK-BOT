@@ -299,8 +299,9 @@ async def cb_handler(client: LuciferMoringstar_Robot, query):
             await query.message.delete()
 
     else:
-        await query.answer("Please Request",show_alert=True)
+        await query.answer("🙆‍♂️ബ്രോ..മറ്റുള്ളവർ Request ചെയ്ത മൂവിയുടെ ഫിൽറ്ററിൽ കുത്തി നോക്കാതെ നിങ്ങൾക്ക് വേണ്ടത് Request ചെയ്ത് അതിൽ കുത്തു ..
 
+Dear Bro , Please Search Your Own File , Don't Click Others Requested Files 😤.",show_alert=True)
 
 
 
