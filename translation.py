@@ -2,7 +2,7 @@ class LuciferMoringstar(object):
 
     DEFAULT_MSG = """👋Hello {mention}.....!!!\nIt's Power Full [{bot_name}](t.me/{bot_username}) Here 😎\nAdd Me To Your Group And Make Sure I'm an Admin There! \nAnd Enjoy My Pever Show.....!!!🤪"""
 
-    HELP_MSG = """**Help Veno Monuse 🤣**"""
+    HELP_MSG = """**എന്തെങ്കിലും ഹെല്പ് വേണോ ചേട്ടാ..😁**"""
 
     ABOUT_MSG = """
 🤖 𝙼𝚈 𝙽𝙰𝙼𝙴 : @CK_STAR_BOT
