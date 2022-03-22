@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="LuciferMoringstar_Robot/modules/logo/LuciferMoringstar-Robot-Logo.jpeg" alt="LuciferMoringstar Robot Logo">
+  <img src="LuciferMoringstar_Robot/modules/logo/mkn.jpg" alt="MKN-PRO-SEARCH-BOT">
 </p>
 
 
