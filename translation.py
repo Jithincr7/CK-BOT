@@ -11,13 +11,13 @@ class LuciferMoringstar(object):
 
 🗃️ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 
-🖇️ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : [𝙿𝚈𝚃𝙷𝙾𝙽.3](https://youtu.be/Af055Eozk9s)
+🖇️ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : [𝙿𝚈𝚃𝙷𝙾𝙽.3]
 
 🗃️ 𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴 : 𝙼𝙰𝙽𝙶𝙾𝙳𝙱
 
 🗳️ 𝚂𝙴𝚁𝚅𝙴𝚁 : 𝙷𝙴𝚁𝙾𝙺𝚄
 
-🗣️ 𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿𝙴 : [Mr. Movie's](https://t.me/mknmovies)"""
+🗣️ 𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿𝙴 : [🎬CINEMA KOTTAKA🎬](https://t.me/Cinema_Kottaka07)"""
 
     FILE_CAPTIONS = """Hello 👋 {mention}\n\n📁Title {title}\n\n🔘Size {size}"""
 
