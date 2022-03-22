@@ -213,7 +213,7 @@ async def cb_handler(client: LuciferMoringstar_Robot, query):
                         file_id=file_id,
                         caption=caption
                         )
-                    await query.answer('🤖 Check PM, I have Sent Files In Pm 🤖',show_alert = True)
+                    await query.answer('🤖 എന്റെ PM ൽ നോക്കു മൂവി ഞാൻ അവിടെ ഇട്ടിട്ടുണ്ട് 🙏',show_alert = True)
             except UserIsBlocked:
                 await query.answer('Unblock the bot mahn !',show_alert = True)
             except PeerIdInvalid:
@@ -225,7 +225,7 @@ async def cb_handler(client: LuciferMoringstar_Robot, query):
 
         elif query.data.startswith("pmfile"):
             if FORCES_SUB and not await is_subscribed(client, query):
-                await query.answer("I Like Your Smartness, But Don't Be Oversmart 😒",show_alert=True)
+                await query.answer("🤨എന്റെ ചാനലിൽനിന്നും exit ആയിട്ട് ഇവിടെ കുത്തി നോക്കണ്ട കിട്ടില്ല പോയി ചാനലിൽ ജോയിൻ ചെയ്തിട്ട് വാ 😁",show_alert=True)
                 return
             ident, file_id = query.data.split("#")
             filedetails = await get_file_details(file_id)
@@ -236,7 +236,7 @@ async def cb_handler(client: LuciferMoringstar_Robot, query):
                 caption=CUSTOM_FILE_CAPTION.format(mention=query.from_user.mention, title=title, size=size, caption=files.caption)
 
                 buttons = [[
-                  InlineKeyboardButton('🤠OWNER🤠', url='https://t.me/mr_MKN')
+                  InlineKeyboardButton('🤠OWNER🤠', url='https://t.me/CK_HELPER')
                   ]]                 
                 
                 await query.answer()
