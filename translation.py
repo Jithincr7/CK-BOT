@@ -5,17 +5,17 @@ class LuciferMoringstar(object):
     HELP_MSG = """**Help Veno Monuse 🤣**"""
 
     ABOUT_MSG = """
-🤖 𝙼𝚈 𝙽𝙰𝙼𝙴 : 𝙼𝙺𝙽 𝙿𝚁𝙾 𝚂𝙴𝙰𝚁𝙲𝙷 𝙱𝙾𝚃
+🤖 𝙼𝚈 𝙽𝙰𝙼𝙴 : @CK_STAR_BOT
 
-🧑 𝙼𝚈 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : [𝙼𝙺𝙽](https://t.me/mr_MKN)
+🧑 𝙼𝚈 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : [𝙲𝙺](https://t.me/CK_HELPER)
 
 🗃️ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 
 🖇️ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : [𝙿𝚈𝚃𝙷𝙾𝙽.3](https://youtu.be/Af055Eozk9s)
 
-🗃️ 𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴 : 𝙳𝚈𝙽𝙰𝙼𝙾 𝙳𝙱
+🗃️ 𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴 : 𝙼𝙰𝙽𝙶𝙾𝙳𝙱
 
-🗳️ 𝚂𝙴𝚁𝚅𝙴𝚁 : 𝚅𝙿𝚂
+🗳️ 𝚂𝙴𝚁𝚅𝙴𝚁 : 𝙷𝙴𝚁𝙾𝙺𝚄
 
 🗣️ 𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿𝙴 : [Mr. Movie's](https://t.me/mknmovies)"""
 
