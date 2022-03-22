@@ -5,27 +5,19 @@ class LuciferMoringstar(object):
     HELP_MSG = """**Help Veno Monuse 🤣**"""
 
     ABOUT_MSG = """
-🤖 My Name [{bot_name}](t.me/{bot_username})
+🤖 𝙼𝚈 𝙽𝙰𝙼𝙴 : 𝙼𝙺𝙽 𝙿𝚁𝙾 𝚂𝙴𝙰𝚁𝙲𝙷 𝙱𝙾𝚃
 
-🧑 My Dev : [PR0FESS0R-99](t.me/PR0FESS0R_99)
+🧑 𝙼𝚈 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : [𝙼𝙺𝙽](https://t.me/mr_MKN)
 
-🧑 My Creator : {dev_name}
+🗃️ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 
-📦 My Source : [Click Here](https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot)
+🖇️ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : [𝙿𝚈𝚃𝙷𝙾𝙽.3](https://youtu.be/Af055Eozk9s)
 
-📺 My Tutorial : [Ckick Here](https://youtu.be/FCU_XJmyG_U)
+🗃️ 𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴 : 𝙳𝚈𝙽𝙰𝙼𝙾 𝙳𝙱
 
-🗃️ My Library : [Pyrogram](https://youtu.be/Af055Eozk9s)
+🗳️ 𝚂𝙴𝚁𝚅𝙴𝚁 : 𝚅𝙿𝚂
 
-🖇️ My Language : [Python3](https://youtu.be/Af055Eozk9s)
-
-🗃️ My Database : [Mongodb](https://youtu.be/gBLTsH-IXr0)
-
-🗳️ My Server : [Heroku](https://youtu.be/xcZD55td6Vw)
-
-🏷️ My Updates : [Mo Tech](t.me/Mo_Tech_YT)
-
-🗣️ My Support : [Any Doubt](t.me/Mo_Tech_Group)"""
+🗣️ 𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿𝙴 : [Mr. Movie's](https://t.me/mknmovies)"""
 
     FILE_CAPTIONS = """Hello 👋 {mention}\n\n📁Title {title}\n\n🔘Size {size}"""
 
@@ -39,7 +31,7 @@ class LuciferMoringstar(object):
  » /logger - Get Bot Logs
  » /channel - Add Channel List"""
 
-    ADD_YOUR_GROUP = """**__ഞാൻ ജോലി ചെയ്യുന്ന ഗ്രൂപ്പിൽ ചേരൂ, നിങ്ങൾക്ക് ആവശ്യമുള്ള എല്ലാ സിനിമകളും ആ ഗ്രൂപ്പിൽ അഭ്യർത്ഥിക്കാം! ഇവിടെ അഭ്യർത്തിക്കരുത്..😤__**"""
+    ADD_YOUR_GROUP = """**__ഞാൻ ജോലി ചെയ്യുന്ന ഗ്രൂപ്പിൽ ചേരൂ, നിങ്ങൾക്ക് ആവശ്യമുള്ള എല്ലാ സിനിമകളും ആ ഗ്രൂപ്പിലും കിട്ടും 😁__**"""
     SPELL_CHECK = """
 **Hello 👋{mention}**,
 
