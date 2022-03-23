@@ -20,8 +20,12 @@ class LuciferMoringstar(object):
     FILE_CAPTIONS = """🅗🅔🅛🅛🅞 👋 {mention}\n\n📁🅣🅘🅣🅛🅔 {title}\n\n
 🔘🅢🅘🅩🅔 {size}
 
+
+
 ╔═══ 🔥𝐉𝐎𝐈𝐍 𝐖𝐈𝐓𝐇 𝐔𝐒🔥 ═══╗
-    🅹🅾🅸🅽 :-@Cinema_Kottaka7  
+    
+    🅹🅾🅸🅽 :-@Cinema_Kottaka7
+  
 ╚═══ 🔥𝐉𝐎𝐈𝐍 𝐖𝐈𝐓𝐇 𝐔𝐒🔥 ═══╝"""
 
     PR0FESS0R_99 = """
