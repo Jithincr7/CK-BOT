@@ -17,7 +17,8 @@ class LuciferMoringstar(object):
 
 🗣️ 𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 : [🎬CINEMA KOTTAKA🎬](https://t.me/Cinema_Kottaka07)"""
 
-    FILE_CAPTIONS = """Hello 👋 {mention}\n\n📁Title {title}\n\n🔘Size {size} JOIN WITH US"""
+    FILE_CAPTIONS = """Hello 👋 {mention}\n\n📁Title {title}\n\n🔘Size {size}
+JOIN WITH US"""
 
     PR0FESS0R_99 = """
 **ADMINS COMMANDS**
