@@ -126,8 +126,11 @@ async def pm_autofilter(client, message):
         else:
             await message.reply_photo(
                 photo=random.choice(BOT_PICS),
-                caption=LuciferMoringstar.ADD_YOUR_GROUP
-                
+                caption=LuciferMoringstar.ADD_YOUR_GROUP,
+                reply_markup=InlineKeyboardMarkup([[
+                   InlineKeyboardButton("✉️ REQUEST HERE ✉️", url=f"{SUPPORT}")
+                   ]]
+                )
             )
             return
         if not btn:
