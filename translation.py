@@ -15,7 +15,7 @@ class LuciferMoringstar(object):
 
 🗳️ 𝚂𝙴𝚁𝚅𝙴𝚁 : 𝙷𝙴𝚁𝙾𝙺𝚄
 
-🗣️ 𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿𝙴 : [🎬CINEMA KOTTAKA🎬](https://t.me/Cinema_Kottaka07)"""
+🗣️ 𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 : [🎬CINEMA KOTTAKA🎬](https://t.me/Cinema_Kottaka07)"""
 
     FILE_CAPTIONS = """Hello 👋 {mention}\n\n📁Title {title}\n\n🔘Size {size}"""
 
