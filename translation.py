@@ -7,7 +7,7 @@ class LuciferMoringstar(object):
     ABOUT_MSG = """
 🤖 𝙼𝚈 𝙽𝙰𝙼𝙴 : @CK_STAR_BOT
 
-🧑 𝙼𝚈 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : [𝙲𝙺](https://t.me/CK_HELPER)
+🧑 𝙼𝚈 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : [CHINNU](https://t.me/CK_HELPER)
 
 🗃️ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 
